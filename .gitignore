@@ -1,0 +1,7 @@
+ *.pyc
+  venv/
+  userTweetsLikes.png
+  mysqlconnection.py
+  dojo_tweets.mwb
+  *.db
+  
